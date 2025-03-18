@@ -14,7 +14,7 @@
 
 ## Технологии
 
-Язык программирования: Python
-Фреймворки: TensorFlow/Keras, PyTorch
-Модели: InceptionV3 (для извлечения признаков), RNN/Transformer (для генерации текста)
-Датасет: ImageNet, https://image-net.org/download.php, flikr30k https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset
+Язык программирования: Python.
+Фреймворки: TensorFlow/Keras, PyTorch.
+Модели: InceptionV3 (для извлечения признаков).
+Датасет: ImageNet, https://image-net.org/download.php, flikr30k https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset.
